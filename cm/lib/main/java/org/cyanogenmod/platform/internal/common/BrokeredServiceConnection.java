@@ -34,5 +34,5 @@ public interface BrokeredServiceConnection {
      * Callback that signifies that the given implementation for the interface contract passed
      * into the {@link org.cyanogenmod.platform.internal.BrokerableCMSystemService} is disconnected.
      */
-    void onBrokeredServiceDisconnected();
+    void onBrokeredServiceDisconnected();.
 }
